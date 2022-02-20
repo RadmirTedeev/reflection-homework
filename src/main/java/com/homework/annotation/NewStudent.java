@@ -1,4 +1,4 @@
-package com.geekbrains.lesson9.annotation;
+package com.homework.annotation;
 
 @Table(title = "new_students")
 public class NewStudent {

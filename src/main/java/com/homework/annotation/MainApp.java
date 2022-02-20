@@ -1,4 +1,4 @@
-package com.geekbrains.lesson9.annotation;
+package com.homework.annotation;
 
 import java.lang.reflect.Field;
 import java.sql.*;
